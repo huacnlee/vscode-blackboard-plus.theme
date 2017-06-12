@@ -598,7 +598,7 @@
                 "meta.decorator variable.other.readwrite"
             ],
             "settings": {
-                "foreground": "#50FA7B",
+                "foreground": "#50FA7B"
             }
         },
         {
