@@ -1,0 +1,53 @@
+{
+	"name": "theme-blackboard-plus",
+	"version": "1.0.1",
+	"displayName": "Blackboard Plus",
+	"homepage": "https://github.com/huacnlee/vscode-blackboard-plus.theme",
+	"description": "Blackboard Theme.",
+	"publisher": "huacnlee",
+	"license": "MIT",
+	"maintainers": [
+		"Jason Lee <huacnlee@gmail.com>"
+	],
+	"contributors": [
+		"Jason Lee"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/huacnlee/vscode-blackboard-plus.theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/huacnlee/vscode-blackboard-plus.theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.11.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"blackboard",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#3c4557",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Blackboard Plus",
+				"uiTheme": "vs-dark",
+				"path": "./theme/blackboard.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1a0e6a4b-916b-4dcd-9329-6df509a2d5b9",
+		"publisherId": "c13d233e-fd04-45d1-bfb2-da2be17a9a7b",
+		"publisherDisplayName": "Jason Lee"
+	}
+}
